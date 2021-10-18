@@ -1,2 +1,8 @@
 # Azure DevOps
-placeholder
+
+- azure cloud shell
+- Makefile
+- python pip
+- Virtual Environment
+- Click tool
+- creating test code
